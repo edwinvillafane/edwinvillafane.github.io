@@ -443,18 +443,6 @@ hr {
   display: table;
   clear: both; }
 
-@media screen and (max-width: 1110px) , screen and (max-height: 600px) {
-  .text-container {
-    float:left;
-    top:auto;
-    position: relative;
-    margin-top: 10px;
-  }
-
-  .right-column h1 {
-    font-size: 4.1rem;
-  }
-}
   .text-container {
     float:left;
     top:auto;
